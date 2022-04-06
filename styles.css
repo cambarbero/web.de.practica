@@ -1,0 +1,57 @@
+#link-derecho{
+    position:relative;
+    left: 1075px;
+}
+
+#titulo{
+    position:relative;
+}
+
+#subtitulo{
+    position:relative;
+}
+
+
+#caja-encabezado{
+    width: auto;
+    border: none;
+    margin: 10px;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    
+}
+body{
+    background-color: lightgrey;
+}
+
+#navbar{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#caja-A1{
+    width: none;
+    border: none;
+    margin: 10px;
+    justify-content: left;
+    padding: 100px;
+    background-color: white;
+}
+
+#caja-B1{
+    width: none;
+    border: none;
+    margin: 10px;
+    justify-content: left;
+    padding: 100px;
+    background-color: white;
+}
+
+.container{
+    margin-left: 0px;
+    padding:0px ;
+    margin: 0px;
+    margin-right:0px;
+}
+
